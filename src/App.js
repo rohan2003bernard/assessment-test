@@ -1,6 +1,6 @@
 import React from 'react';
-
 import Assessment from './Assessment';
+import './App.css'
 
 function App() {
   return (

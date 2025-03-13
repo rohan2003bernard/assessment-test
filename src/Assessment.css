@@ -1,0 +1,22 @@
+.ass{
+    background-size: 100%;
+}
+.option{
+    padding-top: 10px;
+    
+}
+.que{
+
+    border-bottom: solid 2px blue;
+    
+}
+.btn{
+    height:38px;
+    width: 80px;
+    
+}
+.d{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
